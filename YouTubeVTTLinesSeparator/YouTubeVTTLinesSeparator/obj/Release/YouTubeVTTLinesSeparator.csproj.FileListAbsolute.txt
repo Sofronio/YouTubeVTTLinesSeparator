@@ -1,9 +1,0 @@
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\bin\Release\YouTubeVTTLinesSeparator.exe.config
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\bin\Release\YouTubeVTTLinesSeparator.exe
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\bin\Release\YouTubeVTTLinesSeparator.pdb
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\obj\Release\YouTubeVTTLinesSeparator.csprojResolveAssemblyReference.cache
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\obj\Release\YouTubeVTTLinesSeparator.Properties.Resources.resources
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\obj\Release\YouTubeVTTLinesSeparator.csproj.GenerateResource.Cache
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\obj\Release\YouTubeVTTLinesSeparator.exe
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\obj\Release\YouTubeVTTLinesSeparator.pdb
-C:\Coding\GitHub\YouTubeVTTLinesSeparator\YouTubeVTTLinesSeparator\obj\Release\YouTubeVTTLinesSeparator.Form1.resources
